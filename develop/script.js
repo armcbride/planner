@@ -44,8 +44,23 @@ console.log(setTimeBlocks());
 
 //setting colors to time blocks
 
+for (i = 0; i < dayHours.length; i++) {
+
+    if (currentHour === dayHours[i]) {
+        $("#" + dayHours[i]).addClass('present');
+    }
+    if (currentHour > dayHours[i]) {
+        $("#" + dayHours[i]).addClass('past');
+    }
+    if (currentHour < dayHours[i]) {
+        $("#" + dayHours[i]).addClass('future');
+    }
+    
+}
+console.log(currentHour);
 
 
+//Local Storage beast goes below
 
 
 
