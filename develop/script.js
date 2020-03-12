@@ -54,9 +54,6 @@ function timeSlotStatus(hour) {
   }
 }
 
-console.log(setTimeBlocks());
-
-
 //Local Storage
 function saveNote(hour) {
   const note = $(`#${hour}`).val()
@@ -65,5 +62,4 @@ function saveNote(hour) {
 }
 
 
-
-//bottom of code
+setTimeBlocks();
