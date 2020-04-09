@@ -20,3 +20,7 @@ A day planner using HTML, CSS, JavaScript, and jQuery.
 
 - <a href="mailto:armcbride17@gmail.com">Email: armcbride17@gmail.com</a>  
 
+# View
+
+<img src= "./develop/screenshot.PNG">
+<img src= "./develop/example-screenshot.PNG">
