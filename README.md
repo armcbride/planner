@@ -11,7 +11,7 @@ A day planner using HTML, CSS, JavaScript, and jQuery.
 # Live Link
 - Day Planner <a href ="https://armcbride.github.io/planner/develop/index.html" target="_blank">https://armcbride.github.io/planner/develop/index.html</a>
 - Portfolio: <a href = "https://armcbride.github.io" target = "_blank">https://armcbride.github.io</a>
-- Repository: <a href = "https://github.com/armcbride/about-me-quiz" target = "_blank">https://github.com/armcbride/about-me-quiz </a>
+- Repository: <a href = "https://github.com/armcbride/planner" target = "_blank">https://github.com/armcbride/planner </a>
 # Contributors
 
 - armcbride
